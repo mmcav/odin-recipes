@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+ol li {
+    padding-bottom: 20px;
+}
+
+a, a:visited {
+    color: rgb(58, 58, 58);
+}
+
+a:hover {
+    color: black;
+}
